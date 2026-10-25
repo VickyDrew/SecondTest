@@ -1,1 +1,2 @@
 New file created under main2 branch
+Edited in the branch2, yet to update and merge in main
